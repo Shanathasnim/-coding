@@ -9,5 +9,5 @@ for i in range len string)-len sub_string)+1):
 if string[i=i+lensub_string)]==sub_string):
   count+=1
 return count
-#find a string in Python
+#find a string in Python-
 
